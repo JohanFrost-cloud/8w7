@@ -1,0 +1,20 @@
+{
+  "name": "Vocab Perfect — English · Uzbek Learning Lab",
+  "short_name": "Vocab Perfect",
+  "description": "1500+ words, 576 phrases, 17 games, spaced repetition, quests — the complete English learning lab.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#050508",
+  "theme_color": "#c01010",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "productivity"],
+  "lang": "en"
+}

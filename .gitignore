@@ -1,0 +1,5 @@
+node_modules/
+dist/
+_legacy_vite/node_modules/
+.DS_Store
+*.log
